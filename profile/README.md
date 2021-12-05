@@ -1,5 +1,5 @@
-# 🦈Openduct
+# 🐐/openduct
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/647135110201737227/891678453294837760/rootn2.png" style="width: 100px;"> 
+  <img src="https://cdn.discordapp.com/attachments/529615218070781962/917029925557530674/111.jpg" style="width: 100px;"> 
 </div>

@@ -1,6 +1,5 @@
 # 🐐/openduct
 
-<div align="center">
-  <b>make openduct great again</b><br>
-  <img src="https://cdn.discordapp.com/attachments/529615218070781962/917029925557530674/111.jpg" style="width: 250px;"> 
-</div>
+ <img src="https://komarev.com/ghpvc/?username=openduct&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+  <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=openduct&layout=wide&show_reply=on&show_retweet=on" />
